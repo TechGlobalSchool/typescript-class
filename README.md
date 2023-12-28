@@ -35,3 +35,18 @@
 - Whatever you do in Interfaces you can accomplish with Type alias as well
 - We can extends using `&` keyword
 - Optional fileds
+
+
+## Enums
+- Enums are one of the few features TypeScript has which is not a type-level extension of JavaScript.
+- Enums allow us to use a set of constant values.
+
+## Union Types
+
+## Functions
+
+## Generics
+- Provide dynamic and resuable types.
+
+## Challenge
+- Follow instructions 
